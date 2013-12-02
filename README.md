@@ -24,9 +24,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, aut, cumque
 ## Projetos
 
 * **GLFramework** (php) 
+
 	Framework próprio criado em php e utlizando o padrão MVC, para o desenvolvimento ágil de aplicações web com controle de conteudo e integração com banco de dados.
 
 * **NetFla** (php) ([link](http://www.netfla.com.br) )
+
 	Site de notícias que possui uma ferramenta de monitoramento em sites de conteúdo relacionado. 
 
 ---
