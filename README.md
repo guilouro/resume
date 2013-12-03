@@ -1,4 +1,4 @@
-# Guilherme Peixoto da Costa Louro (Currículo)
+# Guilherme Peixoto da Costa Louro
 Petrópolis/RJ | Idade: 30
 
 ---
@@ -12,6 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, aut, cumque
 * PHP
 * Python
 * C#
+* MySQL
 * Orientação a Objeto
 * Padrões de Projeto (Modelo MVC)
 * Sistema de Controle de versão (.git)
@@ -25,11 +26,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, aut, cumque
 
 * **GLFramework** (php) 
 
-	Framework próprio criado em php e utlizando o padrão MVC, para o desenvolvimento ágil de aplicações web com controle de conteudo e integração com banco de dados.
+> Framework em MVC utilizando o PHP, para o desenvolvimento ágil de aplicações web com controle de conteúdo e integração com banco de dados.
 
 * **NetFla** (php) ([link](http://www.netfla.com.br) )
 
-	Site de notícias que possui uma ferramenta de monitoramento em sites de conteúdo relacionado. 
+> Ferramenta de monitoramento de sites com atualizações automáticas de notícias. 
 
 ---
 
