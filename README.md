@@ -4,7 +4,9 @@ Petrópolis/RJ | Idade: 30
 ---
 
 **Telefone:** (24) 2242-9861 / (24) 8111-6553
-**E-mail:*** guilherme-louro@hotmail.com | **Site:** www.guilhermelouro.com.br([link](www.guilhermelouro.com.br))
+
+**E-mail:** guilherme-louro@hotmail.com | **Site:** www.guilhermelouro.com.br ([link](http://www.guilhermelouro.com.br))
+
 **Skype:** guilherme-louro
 
 ---
@@ -22,9 +24,10 @@ Petrópolis/RJ | Idade: 30
 * Javascript
 * Grunt
 
+
 ---
 
-## Qualificações em Design 
+## Qualificações Design 
 
 * Adobe Photoshop Avançado
 * Adobe Flash Avançado
@@ -33,9 +36,9 @@ Petrópolis/RJ | Idade: 30
 
 ---
 
-## Projetos
+## Projetos TI
 
-* **GLFramework** (php) 
+* **GLFramework** (php) ([link](https://github.com/sk8guitar/FRAMEWORK))
 
 > Framework em MVC utilizando o PHP, para o desenvolvimento ágil de aplicações web com controle de conteúdo e integração com banco de dados.
 
@@ -43,9 +46,36 @@ Petrópolis/RJ | Idade: 30
 
 > Ferramenta de monitoramento de sites com atualizações automáticas de notícias. 
 
+## Projetos Design
+
+* **Portifolio online** ([link](http://www.flickr.com/photos/guilhermelouro/))
+
+---
+
+## Conhecimentos adicionais
+
+* API Redes Socias
+* Extensão para navegadores
+* Realidade Aumentada
+
+---
+
+## Informações 
+
+* Grande Interesse de aprendizagem.
+* Adaptabilidade a novas funções e ambientes.
+* Criatividade e Dinamismo.
+* Facilidade em aprender coisas novas
+* Determinação e responsabilidade
+
+
 ---
 
 ## Formação 
 
-* Formado em Sistemas de Informação pelo (IST) 
-* Cursado 6 períodos de Publicidade pela (ESTACIO)
+* **Graduação** - Formado em Sistemas de Informação pelo (IST) 
+* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA) – **Trancado.**
+* **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
+* **Curso** – Desenvolvimento em PHP pela WebRoads.
+* **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
+* **Curso** – Desenvolvimento Web pelo Senac.
