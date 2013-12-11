@@ -3,7 +3,7 @@ Petrópolis/RJ | Idade: 30
 
 ---
 
-**Telefone:** (24) 2242-9861 / (24) 8111-6553
+**Telefone:** (24) 2242-9861 / (24) 98111-6553
 
 **E-mail:** guilherme-louro@hotmail.com | **Site:** www.guilhermelouro.com.br ([link](http://www.guilhermelouro.com.br))
 
