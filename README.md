@@ -52,7 +52,7 @@ Petrópolis/RJ | Idade: 30
 
 ---
 
-## Conhecimentos adicionais
+## Conhecimento extra
 
 * API Redes Socias
 * Extensão para navegadores
@@ -60,7 +60,7 @@ Petrópolis/RJ | Idade: 30
 
 ---
 
-## Informações 
+## Informações adicionais
 
 * Grande Interesse de aprendizagem.
 * Adaptabilidade a novas funções e ambientes.
