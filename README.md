@@ -67,7 +67,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 * 2008/2011 - Eh! Comunicação
 * 2006/2007 - DS|ONE Digital Strategy
 * 2006		- Supremma Comunicação Visual
-* 2013/2014 - SóDesign Comunicação Visual
+* 2003/2006 - SóDesign Comunicação Visual
 * 2001/2003 – Secretaria de Obras da PMP
 
 ---
