@@ -13,7 +13,7 @@ Petrópolis/RJ
 
 ## Objetivo
 
-Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área de desensolvimento. 
+Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área de desenvolvimento. 
 
 ---
 
@@ -27,7 +27,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
 * HTML + CSS *(SASS / LESS)*
-* Javascript
+* Javascript - jQuery
 * Grunt
 
 ---
