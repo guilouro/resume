@@ -62,13 +62,31 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 
 ## Experência Profissional
 
-* 2013/2014 - Maxsite Internet Solutions - *(Emprego Atual)*
-* 2011/2013 - Freelancer Full Time
-* 2008/2011 - Eh! Comunicação
-* 2006/2007 - DS|ONE Digital Strategy
-* 2006		- Supremma Comunicação Visual
-* 2003/2006 - SóDesign Comunicação Visual
-* 2001/2003 – Secretaria de Obras da PMP
+* **Projetos Pessoais**
+> Atualmente, em projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e começando a transferir alguns projetos para Python e Django.
+
+* 2013/2014 - **Maxsite Internet Solutions - *(Emprego Atual)* **
+> Atuo no desenvolvimento web utilizando meu próprio framework em PHP, utilizo também MySql como banco de dados e HTML5, CSS3 *(Sass/Less)*, Javascript/jQuery, Grunt em meu workflow de FrontEnd.
+
+* 2011/2013 - **Freelancer Full Time**
+> Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos. 
+
+* 2008/2011 - **Eh! Comunicação**
+> Atuei na área de Desenvolvimento web utilizando PHP, AS3, MySql e HTML/CSS/Javascript e também com Design Gráfico fazendo toda a criação, utilizando Photoshop e Corel.
+
+
+* 2006/2007 - **DS|ONE Digital Strategy**
+> Atuei como responsável em gerenciar uma equipe no setor publicitário da agência fazendo a gestão de redes sociais. Atuei também no auxilio a criação de novas campanhas publicitarias e em alguns momentos contribui para o setor de design com algumas criações.
+
+* 2006		- **Supremma Comunicação Visual**
+> Atuei como Designer Gráfico, no setor de criação da agência, utilizando na maior parte do tempo o Photoshop como ferramenta principal.
+
+* 2003/2006 - **SóDesign Comunicação Visual**
+> Atuei na área de Design Gráfico, fazendo artes para vitrines de lojas, letreiros, folders e cartões de visita utilizando Photoshop e Corel Draw.
+
+* 2001/2003 – **Secretaria de Obras da PMP**
+> Atuei no atendimento ao público e no cadastro e organização de processos no banco de dados local.
+
 
 ---
 
