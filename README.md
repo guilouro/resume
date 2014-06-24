@@ -21,6 +21,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 
 * PHP
 * Python
+* Django
 * C#
 * MySQL
 * Orientação a Objeto
@@ -94,6 +95,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 
 * **Graduação** - Sistemas de Informação pelo (IST) - *(Monografia em andamento)*
 * **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA) – *(Trancado)*
+* **Curso** - Welcome to the Django por Henrique Bastos
 * **Curso** - Python para Zumbis - *(Em andamento)*
 * **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
 * **Curso** – Desenvolvimento em PHP pela WebRoads.
