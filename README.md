@@ -76,7 +76,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 > Atuei na área de Desenvolvimento web utilizando PHP, AS3, MySql e HTML/CSS/Javascript e também com Design Gráfico fazendo toda a criação, utilizando Photoshop e Corel.
 
 
-* 2006/2007 - **DS|ONE Digital Strategy**
+* 2007/2008 - **DS|ONE Digital Strategy**
 > Atuei como responsável em gerenciar uma equipe no setor publicitário da agência fazendo a gestão de redes sociais. Atuei também no auxilio a criação de novas campanhas publicitarias e em alguns momentos contribui para o setor de design com algumas criações.
 
 * 2006		- **Supremma Comunicação Visual**
