@@ -22,14 +22,15 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 * PHP
 * Python
 * Django
-* C#
 * MySQL
+* C#
 * Orientação a Objeto
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
 * HTML + CSS *(SASS / LESS)*
 * Javascript - jQuery
 * Grunt
+* TDD (Unittest)
 
 ---
 
@@ -42,7 +43,6 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 * WebService
 
 #### Linguagens e bibliotecas em que já trabalhei
-* Java
 * C / C++
 * OpenGL
 * AIR
