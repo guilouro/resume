@@ -11,23 +11,16 @@ Petrópolis/RJ
 
 ---
 
-## Objetivo
-
-Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área de desenvolvimento. 
-
----
-
 ## Conhecimento
 
 * PHP
 * Python
 * Django
 * MySQL
-* C#
 * Orientação a Objeto
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
-* HTML + CSS *(SASS / LESS)*
+* Pré-processadores *(SASS / LESS)*
 * Javascript - jQuery
 * Grunt
 * TDD (Unittest)
@@ -44,6 +37,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 
 #### Linguagens e bibliotecas em que já trabalhei
 * C / C++
+* C#
 * OpenGL
 * AIR
 * PaperVision 3D
@@ -64,7 +58,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Atualmente, em projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e começando a transferir alguns projetos para Python e Django.
+> Atualmente, como projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e utilizado Python e Django para a criação de novos projetos.
 
 * 2013/2014 - **Maxsite Internet Solutions - *(Emprego Atual)* **
 > Atuo no desenvolvimento web utilizando meu próprio framework em PHP, utilizo também MySql como banco de dados e HTML5, CSS3 *(Sass/Less)*, Javascript/jQuery, Grunt em meu workflow de FrontEnd.
@@ -94,7 +88,7 @@ Evoluir cada vez mais meus conhecimentos e continuar sempre trabalhando na área
 ## Formação 
 
 * **Graduação** - Sistemas de Informação pelo (IST) - *(Monografia em andamento)*
-* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA) – *(Trancado)*
+* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
 * **Curso** - Welcome to the Django por Henrique Bastos
 * **Curso** - Python para Zumbis - *(Em andamento)*
 * **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
