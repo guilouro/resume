@@ -5,7 +5,7 @@ Petrópolis/RJ
 
 **Telefone:** (24) 2242-9861 / (24) 98111-6553
 
-**E-mail:** guilherme-louro@hotmail.com 
+**E-mail:** guilherme-louro@hotmail.com
 
 **Skype:** guilherme-louro
 
@@ -17,19 +17,20 @@ Petrópolis/RJ
 * Python
 * Django
 * MySQL
+* Pré-processadores *(SASS / LESS)*
+* Javascript - jQuery - AngularJS
+* Grunt/Gulp
+* Bower
+* TDD (Unittest)
 * Orientação a Objeto
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
-* Pré-processadores *(SASS / LESS)*
-* Javascript - jQuery
-* Grunt
-* TDD (Unittest)
 
 ---
 
 ## Conhecimento extra
 
-* AS3
+* Linux
 * API Redes Socias
 * Extensão para navegadores
 * Realidade Aumentada
@@ -39,6 +40,7 @@ Petrópolis/RJ
 * C / C++
 * C#
 * OpenGL
+* AS3/AS2
 * AIR
 * PaperVision 3D
 * Away 3D
@@ -64,11 +66,10 @@ Petrópolis/RJ
 > Atuo no desenvolvimento web utilizando meu próprio framework em PHP, utilizo também MySql como banco de dados e HTML5, CSS3 *(Sass/Less)*, Javascript/jQuery, Grunt em meu workflow de FrontEnd.
 
 * 2011/2013 - **Freelancer Full Time**
-> Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos. 
+> Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos.
 
 * 2008/2011 - **Eh! Comunicação**
 > Atuei na área de Desenvolvimento web utilizando PHP, AS3, MySql e HTML/CSS/Javascript e também com Design Gráfico fazendo toda a criação, utilizando Photoshop e Corel.
-
 
 * 2007/2008 - **DS|ONE Digital Strategy**
 > Atuei como responsável em gerenciar uma equipe no setor publicitário da agência fazendo a gestão de redes sociais. Atuei também no auxilio a criação de novas campanhas publicitarias e em alguns momentos contribui para o setor de design com algumas criações.
@@ -85,7 +86,7 @@ Petrópolis/RJ
 
 ---
 
-## Formação 
+## Formação
 
 * **Graduação** - Sistemas de Informação pelo (IST) - *(Monografia em andamento)*
 * **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
