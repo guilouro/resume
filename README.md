@@ -37,15 +37,6 @@ Petrópolis/RJ
 * Realidade Aumentada
 * WebService
 
-#### Linguagens e bibliotecas em que já trabalhei
-* C / C++
-* C#
-* OpenGL
-* AS3/AS2
-* AIR
-* PaperVision 3D
-* Away 3D
-
 ---
 
 ## Informações adicionais
@@ -63,8 +54,15 @@ Petrópolis/RJ
 * **Projetos Pessoais**
 > Atualmente, como projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e utilizado Python e Django para a criação de novos projetos.
 
-* 2013/2014 - **Maxsite Internet Solutions - *(Emprego Atual)* **
-> Atuo no desenvolvimento web utilizando meu próprio framework em PHP, utilizo também MySql como banco de dados e HTML5, CSS3 *(Sass/Less)*, Javascript/jQuery, Grunt em meu workflow de FrontEnd.
+* 2013/2015 - **Maxsite Internet Solutions - *(Emprego Atual)* **
+> - Desenvolvimento de sistemas web com [meu próprio framework em PHP](https://github.com/guilouro/FRAMEWORK-PHP/)
+> - Mysql como banco de dados
+> - HTML5
+> 	Pré-processadores *(Sass/Less)*
+> 	Javascript/jQuery/AngularJs
+> 	[Grunt em meu workflow](https://github.com/guilouro/grunt-workflow) de FrontEnd.
+> - Automação de tarefas com Python
+> - Controle de versão com git
 
 * 2011/2013 - **Freelancer Full Time**
 > Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos.
