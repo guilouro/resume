@@ -90,7 +90,7 @@ Petrópolis/RJ
 * **Graduação** - Sistemas de Informação pelo (IST) - *(Monografia em andamento)*
 * **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
 * **Curso** - Welcome to the Django por Henrique Bastos
-* **Curso** - Python para Zumbis - *(Em andamento)*
+* **Curso** - Python para Zumbis
 * **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
 * **Curso** – Desenvolvimento em PHP pela WebRoads.
 * **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
