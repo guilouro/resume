@@ -16,12 +16,15 @@ Petrópolis/RJ
 * PHP
 * Python
 * Django
+* Fabric
+* Apache/Nginx
+* MySQL
 * Jekyll
 * Pré-processadores *(SASS / LESS)*
 * Javascript - jQuery - AngularJS
 * Grunt/Gulp
 * Bower
-* MySQL
+
 * TDD (Unittest)
 * Orientação a Objeto
 * Padrões de Projeto *(Modelo MVC)*
