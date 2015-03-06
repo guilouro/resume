@@ -55,7 +55,7 @@ Petrópolis/RJ
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Atualmente, como projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e utilizado Python e Django para a criação de novos projetos.
+> Atualmente, como projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e utilizado Python e [Django](https://github.com/guilouro/django-boilerplate) juntamente com TDD para a criação de novos projetos.
 
 * 2013/2015 - **Maxsite Internet Solutions - *(Emprego Atual)* **
 > - Desenvolvimento de sistemas web com [meu próprio framework em PHP](https://github.com/guilouro/FRAMEWORK-PHP/)
