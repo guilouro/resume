@@ -7,32 +7,41 @@ Petrópolis/RJ
 
 **E-mail:** guilherme-louro@hotmail.com
 
+**Linkedin:** [https://www.linkedin.com/pub/guilherme-louro/25/9b9/181](https://www.linkedin.com/pub/guilherme-louro/25/9b9/181)
+
 **Skype:** guilherme-louro
 
 ---
 
-## Conhecimento
+## Competências
 
+**BackEnd: **
 * PHP
 * Python
 * Django
+* NodeJS
 * Fabric
+* Programação Orientada à Objeto
 * Apache/Nginx
-* MySQL
-* Jekyll
-* Pré-processadores *(SASS / LESS)*
-* Javascript - jQuery - AngularJS
-* Grunt/Gulp
-* Bower
 
+**FrontEnd:**
+* HTML5/CSS3
+* Pré-processadores (Sass, Less, Stylus)
+* Bootstrap
+* Responsive Design
+* Automatizadores (Grunt, Gulp)
+* Javascript
+* jQuery
+* AngularJS
+
+**Banco de Dados:**
+* MySQL
 * TDD (Unittest)
-* Orientação a Objeto
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
 
----
 
-## Conhecimento extra
+**Extras** 
 
 * Linux
 * API Redes Socias
