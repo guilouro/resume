@@ -7,45 +7,63 @@ Petrópolis/RJ
 
 **E-mail:** guilherme-louro@hotmail.com
 
+**Linkedin:** [https://www.linkedin.com/pub/guilherme-louro/25/9b9/181](https://www.linkedin.com/pub/guilherme-louro/25/9b9/181)
+
+**Github:** guilouro
+
 **Skype:** guilherme-louro
 
 ---
 
-## Conhecimento
+## Competências
 
+**BackEnd: **
 * PHP
 * Python
 * Django
-* Fabric
+* NodeJS
+* Programação Orientada à Objeto
 * Apache/Nginx
-* MySQL
-* Jekyll
-* Pré-processadores *(SASS / LESS)*
-* Javascript - jQuery - AngularJS
-* Grunt/Gulp
-* Bower
 
-* TDD (Unittest)
-* Orientação a Objeto
+**FrontEnd:**
+* HTML5/CSS3
+* Pré-processadores (Sass, Less, Stylus)
+* Bootstrap
+* Responsive Design
+* Automatizadores (Grunt, Gulp)
+* Javascript
+* jQuery
+* AngularJS
+
+
+**Banco de Dados:**
+* MySQL
+* SQLite
+* PostgreSQL
+
+
+**Outros:**
+* Fabric (Para automação de deploy)
+* Experiência com testes unitários TDD (Unittest)
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
+* Conhecimento em SEO
+* Conhecimento em Design e Arquitetura de Software
 
----
 
-## Conhecimento extra
+**Experiências em outras linguagens:**
+* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
+* Alguns testes utilizando C#, .NET
+* Pequenos projetos utilizando C, C++, OpenGL
 
-* Linux
-* API Redes Socias
-* Extensão para navegadores
-* Realidade Aumentada
-* WebService
+**Outros conhecimentos:**
+* Por ter trabalhado alguns anos como designer, possuo conhecimento em Photoshop e Corel Draw.
 
 ---
 
 ## Informações adicionais
 
-* Facilidade em aprender
-* Muito interesse em estar sempre aprendendo coisas novas.
+* Facilidade e muito interesse em aprender
 * Criatividade
 * Determinação e responsabilidade
 * Facilidade para trabalhar em grupo
@@ -55,17 +73,13 @@ Petrópolis/RJ
 ## Experência Profissional
 
 * **Projetos Pessoais**
-> Atualmente, como projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e utilizado Python e [Django](https://github.com/guilouro/django-boilerplate) juntamente com TDD para a criação de novos projetos.
+> Atualmente, como projetos pessoais eu tenho adicionado melhorias ao meu Framework em PHP, e utilizado Python e [Django](https://github.com/guilouro/django-boilerplate) juntamente com TDD para a criação de novos projetos, além de contribuir em projetos no github.
 
 * 2013/2015 - **Maxsite Internet Solutions - *(Emprego Atual)* **
-> - Desenvolvimento de sistemas web com [meu próprio framework em PHP](https://github.com/guilouro/FRAMEWORK-PHP/)
-> - Mysql como banco de dados
-> - HTML5
-> 	Pré-processadores *(Sass/Less)*
-> 	Javascript/jQuery/AngularJs
-> 	[Grunt em meu workflow](https://github.com/guilouro/grunt-workflow) de FrontEnd.
-> - Automação de tarefas com Python
-> - Controle de versão com git
+> Atuo no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
+> 
+> Desenvolvimento de scripts de automação de tarefas com Python.
+> Controle de versão com git.
 
 * 2011/2013 - **Freelancer Full Time**
 > Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos.
@@ -90,7 +104,7 @@ Petrópolis/RJ
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação pelo (IST) - *(Monografia em andamento)*
+* **Graduação** - Sistemas de Informação pelo (IST) - *(Finalizando TCC)*
 * **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
 * **Curso** - Welcome to the Django por Henrique Bastos
 * **Curso** - Python para Zumbis
