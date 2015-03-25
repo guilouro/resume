@@ -17,7 +17,7 @@ Petrópolis/RJ
 
 ## Competências
 
-**BackEnd: **
+**BackEnd:**
 * PHP
 * Python
 * Django
