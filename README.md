@@ -49,6 +49,7 @@ Petrópolis/RJ
 * Sistema de Controle de versão *(git)*
 * Conhecimento em SEO
 * Conhecimento em Design e Arquitetura de Software
+* Kanban
 
 
 **Experiências em outras linguagens:**
