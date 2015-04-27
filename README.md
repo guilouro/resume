@@ -3,9 +3,11 @@ Petrópolis/RJ
 
 ---
 
+####Full Stack Developer
+
 **Telefone:** (24) 2242-9861 / (24) 98111-6553
 
-**E-mail:** guilherme-louro@hotmail.com
+**E-mail:** guipclouro@gmail.com
 
 **Linkedin:** [https://www.linkedin.com/pub/guilherme-louro/25/9b9/181](https://www.linkedin.com/pub/guilherme-louro/25/9b9/181)
 
@@ -78,7 +80,7 @@ Petrópolis/RJ
 
 * 2013/2015 - **Maxisite Internet Solutions - *(Emprego Atual)* **
 > Atuo no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
-> 
+>
 > Desenvolvimento de scripts de automação de tarefas com Python.
 > Controle de versão com git.
 
