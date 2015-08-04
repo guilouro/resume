@@ -107,7 +107,7 @@ Petrópolis/RJ
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação pelo (IST) - *(Finalizando TCC)*
+* **Graduação** - Sistemas de Informação pelo (IST)
 * **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
 * **Curso** - Welcome to the Django por Henrique Bastos
 * **Curso** - Python para Zumbis
