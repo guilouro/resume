@@ -46,7 +46,7 @@ Petrópolis/RJ
 
 **Outros:**
 * Fabric (Para automação de deploy)
-* Experiência com testes unitários TDD (Unittest)
+* Experiência com testes unitários TDD
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
 * Conhecimento em SEO
@@ -56,7 +56,7 @@ Petrópolis/RJ
 
 **Experiências em outras linguagens:**
 * Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
-* Alguns testes utilizando C#, .NET
+* Criação de alguns projetos utilizando C#, .NET
 * Pequenos projetos utilizando C, C++, OpenGL
 
 **Outros conhecimentos:**
@@ -107,7 +107,7 @@ Petrópolis/RJ
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação pelo (IST)
+* **Graduação** - Sistemas de Informação pelo (FAETERJ)
 * **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
 * **Curso** - Welcome to the Django por Henrique Bastos
 * **Curso** - Python para Zumbis
