@@ -5,7 +5,7 @@ Petrópolis/RJ
 
 ####Full Stack Developer
 
-**Telefone:** (24) 2242-9861 / (24) 98111-6553
+**Telefone:** (24) 98111-6553
 
 **E-mail:** guipclouro@gmail.com
 
