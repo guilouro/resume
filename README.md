@@ -74,10 +74,10 @@ Petrópolis/RJ
 
 
 **Experiências em outras linguagens:**
-* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
 * Criação de alguns projetos utilizando C#, .NET
 * Pequenos projetos com Ruby
 * Pequenos projetos utilizando C, C++, OpenGL
+* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
 
 ---
 
