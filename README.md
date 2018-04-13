@@ -16,7 +16,7 @@ Petrópolis/RJ
 
 **Skype:** guilherme-louro
 
-**Inglês** Intermediário
+**Inglês:** Intermediário
 
 
 ---
