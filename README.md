@@ -109,7 +109,7 @@ Petrópolis/RJ
 > Atualmente trabalhando no Frontend de um projeto 100% ReactJS, utilizando Redux para gerir alguns states. Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde 2016. Na parte de backend ajudo na manutenção da API utilizando Python/Falcon e em serviços e projetos de lambda integrado à AWS. Além de pequenos projetos com NodeJS, Python, Jekyll e Docker.
 
 * 2013/2015 - **Maxisite Internet Solutions**
-> Atuo no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
+> Atuei no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
 >
 > Desenvolvimento de scripts de automação de tarefas com Python.
 > Controle de versão com git.
