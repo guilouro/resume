@@ -3,7 +3,7 @@ Petrópolis/RJ
 
 ---
 
-## Full Stack Developer
+## Software Engineer
 
 
 **Telefone:** (24) 98111-6553
