@@ -128,17 +128,17 @@
 
 ---
 
-## Formação
+## Education
 
-* **Graduação** - Information Systems by (FAETERJ) - **[Completo]**
-* **Graduação** - 3 years in Marketing at Universidade Estácio de Sá(UNESA)
-* **Curso** - Desenvolvedor Multiplataforma Android/IOS com React Native
-* **Curso** - The Complete React and Redux course
-* **Curso** - React.js Ninja
-* **Curso** - JS com TDD
-* **Curso** - Welcome to the Django por Henrique Bastos
-* **Curso** - Python para Zumbis
-* **Curso** – Programa students to business de Desenvolvimento by Microsoft .
-* **Curso** – Desenvolvimento em PHP by WebRoads.
-* **Curso** – Flash Total Avançado by Luciano Augusto Treinamentos Profissionais.
-* **Curso** – Desenvolvimento Web by Senac.
+* **Graduation** - Information Systems by FAETERJ
+* **Graduation** - 3 years in Marketing at Universidade Estácio de Sá(UNESA)
+* **Course** - Desenvolvedor Multiplataforma Android/IOS com React Native
+* **Course** - The Complete React and Redux course
+* **Course** - React.js Ninja
+* **Course** - JS com TDD
+* **Course** - Welcome to the Django por Henrique Bastos
+* **Course** - Python para Zumbis
+* **Course** – Programa students to business de Desenvolvimento by Microsoft .
+* **Course** – Desenvolvimento em PHP by WebRoads.
+* **Course** – Flash Total Avançado by Luciano Augusto Treinamentos Profissionais.
+* **Course** – Desenvolvimento Web by Senac.
