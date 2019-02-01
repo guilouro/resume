@@ -67,7 +67,7 @@
 
 
 **Experience in other languages:**
-* Creation of some projects with C# and .NET
+* Large and medium Project with C# and .NET
 * Small projects using C, C ++, OpenGL
 * Worked for 4 years with AS3/AS2 creating websites and educational games
 
