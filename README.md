@@ -66,20 +66,19 @@
 * Scrum/Kanban
 
 
-**Experience in another language:**
+**Experience in other languages:**
 * Creation of some projects with C# and .NET
 * Small projects using C, C ++, OpenGL
-* I worked 4 years with AS3/AS2 creating websites and educational games
+* Worked for 4 years with AS3/AS2 creating websites and educational games
 
 ---
 
-## More informations
+## More information
 
-* Experiência em trabalhar com Produto.
 * I appreciate the code quality.
 * Ease to learn new stuff
-* Pleasure to teach what I know and something that I've learned
-* Creativity.
+* Pleasure to share my knowledge and something that I've learned
+* Creative person.
 * Responsibility and determination.
 * Ease to work in group
 
