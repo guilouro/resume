@@ -1,12 +1,13 @@
 # Guilherme Peixoto da Costa Louro
-Petrópolis/RJ
 
 ---
 
 ## Software Engineer
 
 
-**Telefone:** (24) 98111-6553
+**Location:** Petrópolis/Rio de Janeiro - Brazil
+
+**Phone:** +55 (24) 98111-6553
 
 **E-mail:** guipclouro@gmail.com
 
@@ -16,20 +17,17 @@ Petrópolis/RJ
 
 **Skype:** guilherme-louro
 
-**Inglês:** Intermediário
-
-
 ---
 
-## Competências
+## Skills
 
 **BackEnd:**
 * Python
 * Django/Flask/Falcon
 * NodeJS
 * PHP
-* Programação Orientada à Objeto
-* Testes de software
+* Object Orientation Programming
+* Software testing
 
 
 **FrontEnd:**
@@ -37,115 +35,110 @@ Petrópolis/RJ
 * ReactJS
 * React Native
 * Redux
-* Webpack
-* Testes de software
+* Webpack/Gulp/Grunt
+* Software testing
 * HTML5/CSS3
-* Pré-processadores (Sass, Less, Stylus)
-* Responsive Design
-* Automatizadores (Grunt, Gulp)
-* jQuery
+* Preprocessors (Sass, Less, Stylus)
+* Responsive Design (Mobile First)
 
 
-**Banco de Dados:**
+**Database:**
 * MySQL
 * PostgreSQL
 * SQLite
 * Firebase Realtime Database
 
 
-**Infra**
+**DevOps**
 * Apache/Nginx
 * Docker
 * Continuous Integrations
 * Continuous Deployment
-* Serviços AWS
-* Heroku
-* Fabric (Para automação de deploy)
+* AWS Services
+* Heroku Services
 
 
-**Outros:**
-* Padrões de Projeto *(Modelo MVC)*
-* Sistema de Controle de versão *(git)*
-* Conhecimento em SEO
-* Conhecimento em Design e Arquitetura de Software
-* Base de UX/UI.
-* Scrum
-* Kanban
+**Others:**
+* Project Patterns *(MVC)*
+* Git
+* SEO Knowledge
+* Software Architecture and Design Knowledge
+* Scrum/Kanban
 
 
-**Experiências em outras linguagens:**
-* Criação de alguns projetos utilizando C#, .NET
-* Pequenos projetos com Ruby
-* Pequenos projetos utilizando C, C++, OpenGL
-* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
+**Experience in another language:**
+* Creation of some projects with C# and .NET
+* Small projects using C, C ++, OpenGL
+* I worked 4 years with AS3/AS2 creating websites and educational games
 
 ---
 
-## Informações adicionais
+## More informations
 
 * Experiência em trabalhar com Produto.
-* Prezo muito pela qualidade do código.
-* Facilidade e interesse em estar sempre aprendendo e evoluíndo.
-* Prazer em passar conhecimento adiante.
-* Criatividade.
-* Determinação e responsabilidade.
-* Facilidade para trabalhar em grupo
+* I appreciate the code quality.
+* Ease to learn new stuff
+* Pleasure to teach what I know and something that I've learned
+* Creativity.
+* Responsibility and determination.
+* Ease to work in group
 
 ---
 
-## Experência Profissional
+## Work Experience
 
-* **Projetos Pessoais**
-> Trabalho em alguns projetos de portal criando alguns serviços de crawler para raspagem de dados. 
+* **Personal Projects**
+> I'm work in some projects creating crawlers with python to generate content for other projects.
 
-> Como hobby, sou proprietário de um portal esportivo que utiliza um desses projetos para criar conteúdo. Nesse projeto se utiliza Python/Django, Javascript, ReactJS, Docker, Postgres, Apache, Celery, DigitalOcean, entre outras tecnologias, além de metodologias para aperfeiçoamento de SEO e performance do portal.
+> As a hobby, I'm the owner of a Sports Portal that using some that crawlers to create content. In that project, I'm usign Python with Django, Javascritp with React, Postgres in my database, Docker, Apache, Celery, DigitalOcean as my server, among other technologies. In addition I use methodologies to improve SEO and performance of the portal.
 
-> Criação e colaboração em projetos open source.
+> Creation of some project using React React/Redux, Python, Django, Flask, Heroku, Deploy with Bitbucket pipelines, Deploy with Travis.
 
-> Criação de diversos projetos utilizando React/Redux, Python, Django, Flask, Heroku, Deploy via Bitbucket, Deploy via Travis.
+> In addition I like to create and collaborate with open source projects.
 
+* 2018/Present - **Grifo/ADP** 
+> I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), React, Redux, Git, TDD/BDD. Sometimes I work with NODEJS to resolve backend stuff.
 
-* 2015/Dias Atuais - **B2W Digital**
-> Atualmente trabalhando no Frontend de um projeto 100% ReactJS, utilizando Redux para gerir alguns states. Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde 2016. Na parte de backend ajudo na manutenção da API utilizando Python/Falcon e em serviços e projetos de lambda integrado à AWS. Além de pequenos projetos com NodeJS, Python, Jekyll e Docker.
+* 2015/2018 - **B2W Digital**
+> I worked as a FullStack developer in a SPA project totally with ReactJS, using Redux to control some states. This project was created by me with focus in quality, patterns and software tests. At backend side, I worked with python using falcon framework to create and improve features in API. Some times I worked with AWS to generate some lambda processes and other AWS integration. In addition to work with NodeJS, Python, Jekyll e Docker.
 
 * 2013/2015 - **Maxisite Internet Solutions**
-> Atuei no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
->
-> Desenvolvimento de scripts de automação de tarefas com Python.
-> Controle de versão com git.
+> I worked with the development of a lot of systems with PHP and MySQL, using a [framework created by](https://github.com/guilouro/Lothus-PHP) me in **Backend** and HTML5, CSS with preproccessor *(Sass/Less)* and Javascript/jQuery/AngularJs using Grunt to automate in **Frontend**.
+> Script development to automate task with Python.
 
 * 2011/2013 - **Freelancer Full Time**
-> Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos.
+> 
+> I acted at web development using PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. I also worked at game development with AS2/AS3 mainly with child games.
 
 * 2008/2011 - **Eh! Comunicação**
-> Atuei na área de Desenvolvimento web utilizando PHP, AS3, MySql e HTML/CSS/Javascript e também com Design Gráfico fazendo toda a criação, utilizando Photoshop e Corel.
+> I worked with ​web development using PHP, AS3, MySql and HTML/CSS/Javascript. I also worked with Graphic Design making the whole creation with Photoshop and Corel.
 
 * 2007/2008 - **DS|ONE Digital Strategy**
-> Atuei como responsável em gerenciar uma equipe no setor publicitário da agência fazendo a gestão de redes sociais. Atuei também no auxilio a criação de novas campanhas publicitarias e em alguns momentos contribui para o setor de design com algumas criações.
+> I was responsible to manage a marketing team that worked with social networks and I was helping to create new campaigns. Sometimes, I worked as a designer to help other teams.
 
 * 2006		- **Supremma Comunicação Visual**
-> Atuei como Designer Gráfico, no setor de criação da agência, utilizando na maior parte do tempo o Photoshop como ferramenta principal.
+> I worked as a Graphic Designer, in the agency creation sector, using in most of the time Photoshop as the main tool.
 
 * 2003/2006 - **SóDesign Comunicação Visual**
-> Atuei na área de Design Gráfico, fazendo artes para vitrines de lojas, letreiros, folders e cartões de visita utilizando Photoshop e Corel Draw.
+> I worked as a ​​Graphic Design, making arts for store windows, signs, folders and business cards using Photoshop and Corel Draw.
 
 * 2001/2003 – **Secretaria de Obras da PMP**
-> Atuei no atendimento ao público e no cadastro e organização de processos no banco de dados local.
+> I worked in the public sector registering and organizing processes in the local database.
 
 
 ---
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação pelo (FAETERJ) - **[Completo]**
-* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
+* **Graduação** - Information Systems by (FAETERJ) - **[Completo]**
+* **Graduação** - 3 years in Marketing at Universidade Estácio de Sá(UNESA)
 * **Curso** - Desenvolvedor Multiplataforma Android/IOS com React Native
 * **Curso** - The Complete React and Redux course
 * **Curso** - React.js Ninja
 * **Curso** - JS com TDD
 * **Curso** - Welcome to the Django por Henrique Bastos
 * **Curso** - Python para Zumbis
-* **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
-* **Curso** – Desenvolvimento em PHP pela WebRoads.
-* **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
-* **Curso** – Desenvolvimento Web pelo Senac.
+* **Curso** – Programa students to business de Desenvolvimento by Microsoft .
+* **Curso** – Desenvolvimento em PHP by WebRoads.
+* **Curso** – Flash Total Avançado by Luciano Augusto Treinamentos Profissionais.
+* **Curso** – Desenvolvimento Web by Senac.
