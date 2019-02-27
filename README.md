@@ -92,6 +92,8 @@
 
 > In addition I like to create and collaborate with open source projects.
 
+> I'm theacher at [Udemy](https://www.udemy.com/user/guilherme-louro/)
+
 * 2018/Present - **Grifo/ADP** 
 > I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), React, Redux, Git, TDD/BDD. Sometimes I work with NodeJS to resolve backend stuff.
 

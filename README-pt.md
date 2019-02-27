@@ -1,7 +1,5 @@
 # Guilherme Peixoto da Costa Louro
 
----
-
 ## Software Engineer
 
 
@@ -96,6 +94,8 @@
 > Criação e colaboração em projetos open source.
 
 > Criação de diversos projetos utilizando React/Redux, Python, Django, Flask, Heroku, Deploy via Bitbucket, Deploy via Travis.
+
+> Criação de curso para a plataforma [Udemy](https://www.udemy.com/user/guilherme-louro/)
 
 * 2018/Presente - **Grifo/ADP**
 > Trabalhando como Frontend sou responsável por desenvolver de forma eficiente, reutilizável e confiável o código front-end da plataforma. Trabalhando com Javascript (ES6), React, Redux, Git, TDD/BDD, e usando NODE JS para tarefas de backend. 
