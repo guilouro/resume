@@ -13,8 +13,6 @@
 
 **Github:** guilouro
 
-**Skype:** guilherme-louro
-
 ---
 
 ## Competências
