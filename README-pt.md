@@ -19,6 +19,19 @@
 
 ## Competências
 
+
+**FrontEnd:**
+* Typescript
+* ReactJS
+* React Native
+* NextJS
+* Webpack
+* Testes de software
+* HTML5/CSS3
+* CSS-in-JS
+* Responsive Design (Mobile First)
+
+
 **BackEnd:**
 * Python
 * Django/Flask/Falcon
@@ -26,18 +39,6 @@
 * PHP
 * Programação Orientada à Objeto
 * Testes de software
-
-
-**FrontEnd:**
-* ES6
-* ReactJS
-* React Native
-* Redux
-* Webpack/Gulp/Grunt
-* Testes de software
-* HTML5/CSS3
-* Pré-processadores (Sass, Less, Stylus)
-* Responsive Design (Mobile First)
 
 
 **Banco de Dados:**
@@ -93,11 +94,14 @@
 
 > Criação e colaboração em projetos open source.
 
-> Criação de diversos projetos utilizando React/Redux, Python, Django, Flask, Heroku, Deploy via Bitbucket, Deploy via Travis.
+> Criação de diversos projetos utilizando React, NextJS, Python, Django, Flask, Heroku, Deploy via github actions
 
 > Criação de curso para a plataforma [Udemy](https://www.udemy.com/user/guilherme-louro/)
 
-* 2018/Presente - **Grifo/ADP**
+* 2019/Present - **Personare** 
+> Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como frontend trabalho utilizando Javascript/Typescript, React, NextJS em projetos com micro frontends e bibliotecas. Pelo backend trabalho utilizando node, python e PHP com postgres. Trabalho com frequencia nos serviços da AWS.
+
+* 2018/2019 - **Grifo/ADP** 
 > Trabalhando como Frontend sou responsável por desenvolver de forma eficiente, reutilizável e confiável o código front-end da plataforma. Trabalhando com Javascript (ES6), React, Redux, Git, TDD/BDD, e usando NODE JS para tarefas de backend. 
 
 * 2015/2018 - **B2W Digital**

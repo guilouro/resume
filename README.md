@@ -19,25 +19,26 @@
 
 ## Skills
 
+
+**FrontEnd:**
+* Typescript
+* ReactJS
+* React Native
+* NextJS
+* Webpack
+* Software testing
+* HTML5/CSS3
+* CSS-in-JS
+* Responsive Design (Mobile First)
+
+
 **BackEnd:**
+* NodeJS
 * Python
 * Django/Flask/Falcon
-* NodeJS
 * PHP
 * Object Orientation Programming
 * Software testing
-
-
-**FrontEnd:**
-* ES6
-* ReactJS
-* React Native
-* Redux
-* Webpack/Gulp/Grunt
-* Software testing
-* HTML5/CSS3
-* Preprocessors (Sass, Less, Stylus)
-* Responsive Design (Mobile First)
 
 
 **Database:**
@@ -88,17 +89,20 @@
 
 > As a hobby, I'm the owner of a Sports Portal that uses some that crawlers to create content. On this project, I'm using Python with Django, Javascript with React, Postgres, Docker, Apache, Celery, DigitalOcean as my server, among other technologies. In addition, I use some methodologies to improve SEO and performance of the portal.
 
-> Project using React React/Redux, Python, Django, Flask, Heroku, Deploy with Bitbucket pipelines, Deploy with Travis.
+> Project using React NextJS, Python, Django, Flask, Heroku, Vercel, Deploy with github Actions. 
 
 > In addition I like to create and collaborate with open source projects.
 
 > I'm theacher at [Udemy](https://www.udemy.com/user/guilherme-louro/)
 
-* 2018/Present - **Grifo/ADP** 
+* 2019/Present - **Personare** 
+> I'm responsible for developing efficient, reusable, and reliable code. Working on front-end with: Javascript/Typescript, React, NextJS in projects with micro front-ends. On the backend side, I've been working with NodeJS, Python, and PHP, with Postgres. Docker is common in my development flow and I use AWS services to host these projects.
+
+* 2018/2019 - **Grifo/ADP** 
 > I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), React, Redux, Git, TDD/BDD. Sometimes I work with NodeJS to resolve backend stuff.
 
 * 2015/2018 - **B2W Digital**
-> I worked as a FullStack developer in a SPA project made with ReactJS, using Redux to control some states. This project was created by me with focus in quality, patterns and software tests. At backend side, I worked with python using falcon framework to create and improve features in our API. I worked with AWS to generate some lambda processes and other AWS integration. I worked with NodeJS, Python, Jekyll and Docker as well.
+> I worked as a FullStack developer in a SPA project made with ReactJS, using Redux to control some states. This project was created by me with focus in quality, patterns and software tests. On the backend side, I worked with python using falcon framework to create and improve features in our API. I worked with AWS to generate some lambda processes and other AWS integration. I worked with NodeJS, Python, Jekyll and Docker as well.
 
 * 2013/2015 - **Maxisite Internet Solutions**
 > I worked with the development of a lot of systems with PHP and MySQL, using a [framework created by me](https://github.com/guilouro/Lothus-PHP) in **Backend** and HTML5, CSS with preproccessor *(Sass/Less)* and Javascript/jQuery/AngularJs using Grunt to automate in **Frontend**.
