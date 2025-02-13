@@ -1,148 +1,96 @@
-# Guilherme Peixoto da Costa Louro
+# **Guilherme Louro**  
+## **Engenheiro de Software**  
 
-## Software Engineer
+Petrópolis, Rio de Janeiro - Brasil  
++55 (24) 98111-6553  
+guipclouro@gmail.com  
 
-
-**Localização:** Petrópolis/Rio de Janeiro - Brasil
-
-**Telefone:** +55 (24) 98111-6553
-
-**E-mail:** guipclouro@gmail.com
-
-**Linkedin:** [https://www.linkedin.com/in/guilhermelouro/](https://www.linkedin.com/in/guilhermelouro/)
-
-**Github:** guilouro
+[LinkedIn](https://www.linkedin.com/in/guilhermelouro/) | [GitHub](https://github.com/guilouro)  
 
 ---
 
-## Competências
+## **Experiência Profissional**  
 
+### **[Appcues](https://www.appcues.com/)** _(2022 - 2024)_  
+- Contribuí para a implementação e manutenção da extensão do Chrome do Appcues Builder usando TypeScript, aproveitando uma arquitetura orientada a eventos para criação e edição de fluxos de onboarding dentro de aplicações.  
+- Participei do desenvolvimento de um editor WYSIWYG do zero para o Builder utilizando TypeScript, gerando uma AST como saída para manipulação estruturada de elementos com React e Web Components.  
+- Tive um papel essencial na migração do sistema principal de JavaScript (React, Redux, Saga) para TypeScript (React, GraphQL), implementando hooks personalizados e refatorando componentes para melhor modularidade, manutenção e desempenho.  
+- Colaborei na estratégia e implementação de testes end-to-end com Playwright, melhorando a cobertura de testes e a confiabilidade do software, garantindo a validação de fluxos críticos.  
+- Contribuí para diversas features, pacotes e evolução do design system dentro de uma arquitetura monorepo, garantindo documentação clara para facilitar a manutenção e adoção pelos times.  
 
-**FrontEnd:**
-* Typescript
-* ReactJS
-* React Native
-* NextJS
-* Webpack
-* Testes de software
-* HTML5/CSS3
-* CSS-in-JS
-* Responsive Design (Mobile First)
+### **[Telnyx](https://telnyx.com/)** _(Fev - Ago 2022)_  
+- Desenvolvi aplicações com TypeScript, React e Next.js, implementando uma arquitetura de micro frontends para desenvolvimento modular e escalável.  
+- Criei componentes, hooks e pacotes compartilháveis para padronizar a implementação em microsserviços e garantir a qualidade do código.  
+- Mantive um SDK de chamadas de vídeo em Vanilla JavaScript, integrando os serviços da empresa para comunicação em tempo real e desenvolvendo micro frontends para ampliar sua adoção.  
+- Gerenciei a integração e otimização da infraestrutura de micro frontends na AWS, garantindo deploys contínuos e alta disponibilidade.  
+- Atuei como mentor de desenvolvedores juniores e plenos, oferecendo orientação técnica, revisando código e promovendo boas práticas de desenvolvimento.  
 
+### **[Personare](https://www.personare.com.br/)** _(2019 - 2022)_  
+- Liderei a transição de uma arquitetura monolítica para microsserviços, melhorando escalabilidade, manutenção e resiliência do sistema.  
+- Atuei como líder técnico, gerenciando projetos e mentorando equipes para tomadas de decisão estratégicas e implementação das melhores práticas.  
+- Desenvolvi um monorepo para pacotes compartilháveis, componentes, hooks e design system, utilizando Atomic Design.  
+- Modelei uma arquitetura reutilizável para microsserviços, garantindo consistência, modularidade e integração fluida com Next.js, GraphQL, TypeScript e Styled Components.  
+- Desenvolvi um pacote de autenticação como adaptador para micro frontends, facilitando a integração e mantendo padrões robustos de segurança.  
+- Otimizei a performance de um site com 400K+ visitas diárias, garantindo alta disponibilidade sob carga intensa.  
+- Configurei infraestrutura AWS (Lambda, S3, CloudFront, RDS, etc.), garantindo segurança, escalabilidade e confiabilidade.  
 
-**BackEnd:**
-* Python
-* Django/Flask/Falcon
-* NodeJS
-* PHP
-* Programação Orientada à Objeto
-* Testes de software
-
-
-**Banco de Dados:**
-* MySQL
-* PostgreSQL
-* SQLite
-* Firebase Realtime Database
-
-
-**Infra**
-* Apache/Nginx
-* Docker
-* Continuous Integrations
-* Continuous Deployment
-* Serviços AWS
-* Heroku
-* Fabric (Para automação de deploy)
-
-
-**Outros:**
-* Padrões de Projeto *(Modelo MVC)*
-* Sistema de Controle de versão *(git)*
-* Conhecimento em SEO
-* Conhecimento em Design e Arquitetura de Software
-* Scrum/Kanban
-
-
-**Experiências em outras linguagens:**
-* Criação de alguns projetos utilizando C#, .NET
-* Pequenos projetos utilizando C, C++, OpenGL
-* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
+### **[B2W Digital](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/about/)** _(2015 - 2018)_  
+- Liderei a migração de um sistema monolítico Django para uma SPA com React e Redux, pioneirando a adoção dessas tecnologias na empresa.  
+- O sucesso do projeto se tornou um modelo para outras migrações de Angular para React na companhia.  
+- Ministrei palestras e treinamentos internos sobre React e Redux, ajudando na adoção das tecnologias por outras equipes.  
+- Implementei a maior parte do projeto de forma independente, atuando também na mentoria de desenvolvedores juniores e plenos.  
 
 ---
 
-## Informações adicionais
-
-* Experiência em trabalhar com Produto.
-* Prezo muito pela qualidade do código.
-* Facilidade e interesse em estar sempre aprendendo e evoluíndo.
-* Prazer em passar conhecimento adiante.
-* Criatividade.
-* Determinação e responsabilidade.
-* Facilidade para trabalhar em grupo
+## **Projetos Pessoais & Open Source**  
+- Gerencio o NETFLA, um portal de notícias de alto tráfego com 300K+ usuários mensais, integrando React, Next.js, Django, PostgreSQL e Docker.  
+- Contribuí no NETFLU, desenvolvendo um sistema de votação de atletas e criando o aplicativo mobile para Android e iOS com React Native.  
+- Desenvolvi serviços de web scraping automatizado (crawlers) usando Python e Django.  
+- Participei de projetos open-source e criei diversas aplicações full-stack.  
+- Criei e publiquei um curso online na Udemy: [Meu Curso na Udemy](https://www.udemy.com/user/guilherme-louro/)  
 
 ---
 
-## Experência Profissional
+## **Habilidades**  
 
-* **Projetos Pessoais**
-> Trabalho em alguns projetos de portal criando alguns serviços de crawler para raspagem de dados. 
+### **Front-End**  
+- **Linguagens & Frameworks:** TypeScript, JavaScript, React.js, Next.js, React Native  
+- **Estilização & Arquitetura:** Tailwind CSS, CSS-in-JS, Atomic Design, Responsive Design  
+- **Testes & Qualidade:** Jest, Vitest, Playwright  
 
-> Como hobby, sou proprietário de um portal esportivo que utiliza um desses projetos para criar conteúdo. Nesse projeto se utiliza Python/Django, Javascript, ReactJS, Docker, Postgres, Apache, Celery, DigitalOcean, entre outras tecnologias, além de metodologias para aperfeiçoamento de SEO e performance do portal.
+### **Back-End**  
+- **Linguagens & Frameworks:** Python (Django, Flask, Falcon), Node.js, PHP  
+- **Bancos de Dados & Armazenamento:** PostgreSQL, MySQL, SQLite, Firebase Realtime Database  
+- **Testes & Qualidade:** Pytest, Selenium, Unit & Integration Testing  
 
-> Criação e colaboração em projetos open source.
-
-> Criação de diversos projetos utilizando React, NextJS, Python, Django, Flask, Heroku, Deploy via github actions
-
-> Criação de curso para a plataforma [Udemy](https://www.udemy.com/user/guilherme-louro/)
-
-* 2019/Present - **Personare** 
-> Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como frontend trabalho utilizando Javascript/Typescript, React, NextJS em projetos com micro frontends e bibliotecas. Pelo backend trabalho utilizando node, python e PHP com postgres. Trabalho com frequencia nos serviços da AWS.
-
-* 2018/2019 - **Grifo/ADP** 
-> Trabalhando como Frontend sou responsável por desenvolver de forma eficiente, reutilizável e confiável o código front-end da plataforma. Trabalhando com Javascript (ES6), React, Redux, Git, TDD/BDD, e usando NODE JS para tarefas de backend. 
-
-* 2015/2018 - **B2W Digital**
-> Trabalhei como Frontend de um projeto 100% ReactJS, utilizando Redux para gerir alguns states. Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde 2016. Na parte de backend ajudo na manutenção da API utilizando Python/Falcon e em serviços e projetos de lambda integrado à AWS. Além de pequenos projetos com NodeJS, Python, Jekyll e Docker.
-
-* 2013/2015 - **Maxisite Internet Solutions**
-> Atuei no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
->
-> Desenvolvimento de scripts de automação de tarefas com Python.
-> Controle de versão com git.
-
-* 2011/2013 - **Freelancer Full Time**
-> Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos.
-
-* 2008/2011 - **Eh! Comunicação**
-> Atuei na área de Desenvolvimento web utilizando PHP, AS3, MySql e HTML/CSS/Javascript e também com Design Gráfico fazendo toda a criação, utilizando Photoshop e Corel.
-
-* 2007/2008 - **DS|ONE Digital Strategy**
-> Atuei como responsável em gerenciar uma equipe no setor publicitário da agência fazendo a gestão de redes sociais. Atuei também no auxilio a criação de novas campanhas publicitarias e em alguns momentos contribui para o setor de design com algumas criações.
-
-* 2006		- **Supremma Comunicação Visual**
-> Atuei como Designer Gráfico, no setor de criação da agência, utilizando na maior parte do tempo o Photoshop como ferramenta principal.
-
-* 2003/2006 - **SóDesign Comunicação Visual**
-> Atuei na área de Design Gráfico, fazendo artes para vitrines de lojas, letreiros, folders e cartões de visita utilizando Photoshop e Corel Draw.
-
-* 2001/2003 – **Secretaria de Obras da PMP**
-> Atuei no atendimento ao público e no cadastro e organização de processos no banco de dados local.
-
+### **Infraestrutura & DevOps**  
+- **Cloud & Servidores:** AWS (EC2, S3, Lambda, CloudFront, CloudFormation, Aurora, RDS)  
+- **DevOps & Automação:** Docker, Kubernetes, GitHub Actions, CircleCI, AWS CodeBuild, AWS CodePipeline  
+- **Versionamento & Infraestrutura como Código:** Git, GitFlow, Terraform  
 
 ---
 
-## Formação
+## **Educação**  
+- **Bacharelado em Sistemas de Informação** – FAETERJ  
+- **Publicidade e Marketing (Incompleto)** – Universidade Estácio de Sá  
 
-* **Graduação** - Sistemas de Informação pelo (FAETERJ) - **[Completo]**
-* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
-* **Curso** - Desenvolvedor Multiplataforma Android/IOS com React Native
-* **Curso** - The Complete React and Redux course
-* **Curso** - React.js Ninja
-* **Curso** - JS com TDD
-* **Curso** - Welcome to the Django por Henrique Bastos
-* **Curso** - Python para Zumbis
-* **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
-* **Curso** – Desenvolvimento em PHP pela WebRoads.
-* **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
-* **Curso** – Desenvolvimento Web pelo Senac.
+### **Cursos & Certificações**  
+- Desenvolvimento Android/iOS com React Native  
+- Curso Completo de React e Redux  
+- JavaScript com TDD  
+- State Machines in JavaScript with XState, v2
+- Welcome to Django – Henrique Bastos  
+- Python para Zombies  
+- Microsoft Students to Business Program  
+- Desenvolvimento PHP – WebRoads  
+- Flash Avançado – Luciano Augusto Training  
+
+---
+
+## **Destaques & Diferenciais**  
+- Experiência sólida em desenvolvimento full-stack, arquitetura de sistemas e otimização de performance.  
+- Habilidade comprovada em migração de sistemas legados para arquiteturas modernas.  
+- Liderança técnica e mentoria, auxiliando times no crescimento e melhores práticas.  
+- Forte foco em qualidade de código, manutenção e eficiência no desenvolvimento.  
+- Atuação ativa no compartilhamento de conhecimento, através de treinamentos internos, contribuições open-source e cursos online.  
+- Experiência colaborando com equipes multidisciplinares e projetos internacionais.  
