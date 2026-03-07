@@ -12,6 +12,18 @@ guipclouro@gmail.com
 ## Work Experience
 
 
+### **[dLocal](https://dlocal.com/)** _(Aug 2025 - Present)_
+**(Remote)**
+
+- Develop and maintain core frontend solutions within the IT Core team, focusing on scalable and reliable interfaces that support dLocal's global payments platform.
+- Lead frontend development for internal back-office tools that support pricing, quoting, commercial rules configuration, and cost management for payment operations, using React, TypeScript, Next.js, and modern tooling to deliver intuitive and performant user experiences.
+- Collaborate closely with product, operations, and other engineering teams to translate business and compliance requirements into robust, user-friendly internal applications that streamline day-to-day workflows.
+- Contribute to the evolution of architecture and frontend patterns, improving maintainability, consistency, and observability across critical internal tools.
+- Drive code quality through thoughtful code reviews, technical discussions, and clear documentation, aligning the team around best practices and shared standards.
+- Mentor and support teammates by sharing knowledge about modern React/TypeScript, testing, and frontend architecture, elevating the overall engineering capacity of the team.
+
+_**Skills: TypeScript, React, Next.js, Unit & Integration Testing, Code Reviews, Documentation, Mentoring, Frontend Architecture, Observability, Design System**_
+
 ### **[Appcues](https://www.appcues.com/)** _(2022 - 2025)_ 
 Boston, MA - USA - **(Remote)**
 
