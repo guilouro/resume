@@ -5,158 +5,179 @@ Petrópolis, Rio de Janeiro - Brasil
 +55 (24) 98111-6553  
 guipclouro@gmail.com  
 
-[LinkedIn](https://www.linkedin.com/in/guilhermelouro/) | [GitHub](https://github.com/guilouro)  
+[LinkedIn](https://www.linkedin.com/in/guilhermelouro/) | [GitHub](https://github.com/guilouro)
+
+---
+
+## Resumo Profissional
+
+Engenheiro de Software Fullstack com mais de 15 anos de experiência em construção, modernização e escalabilidade de aplicações web, com forte expertise em React, TypeScript, Next.js, Python e arquitetura de software. Histórico comprovado liderando iniciativas frontend, migrações de sistemas, evolução de design systems e melhorias na experiência de desenvolvimento em times distribuídos. Combino profundo conhecimento em frontend com uma sólida base em backend para entregar produtos escaláveis, manuteníveis e de alto impacto. Experiência em mentoria de engenheiros, condução de decisões técnicas e contribuição para recursos baseados em IA em aplicações do mundo real.
 
 ---
 
 ## Experiência Profissional
 
-### **[dLocal](https://dlocal.com/)** _(Ago 2025 - Atual)_
-**(Remoto)**
+### **[dLocal](https://dlocal.com/)** _(Ago 2025 - Atual)_  
+**Remoto**
 
-- Desenvolvo e mantenho soluções frontend core na equipe IT Core, focando em interfaces escaláveis e confiáveis que suportam a plataforma global de pagamentos da dLocal.
-- Lidero o desenvolvimento frontend de ferramentas internas de back-office para precificação, cotações, configuração de regras comerciais e gestão de custos de operações de pagamento, usando React, TypeScript, Next.js e ferramentas modernas para entregar experiências intuitivas e performáticas.
-- Colaboro com times de produto, operações e engenharia para traduzir requisitos de negócio e compliance em aplicações internas robustas e amigáveis que otimizam fluxos diários.
-- Contribuo para a evolução da arquitetura e padrões frontend, melhorando manutenibilidade, consistência e observabilidade em ferramentas internas críticas.
-- Promovo qualidade de código através de code reviews, discussões técnicas e documentação clara, alinhando o time em boas práticas e padrões compartilhados.
-- Mentoro e apoio colegas compartilhando conhecimento sobre React/TypeScript moderno, testes e arquitetura frontend, elevando a capacidade de engenharia do time.
+- Projeto e mantenho soluções frontend core na equipe IT Core, dando suporte a plataformas internas usadas nas operações globais de pagamento da dLocal.
+- Lidero o desenvolvimento frontend de ferramentas internas de back-office focadas em precificação, cotações, configuração de regras comerciais e gestão de custos, usando React, TypeScript, Next.js e ferramentas modernas de frontend.
+- Traduzo requisitos complexos de negócio, operações e compliance em aplicações internas confiáveis e amigáveis que otimizam fluxos de trabalho diários.
+- Melhoro a arquitetura, consistência e manutenibilidade do frontend em ferramentas internas críticas, reforçando padrões reutilizáveis e boas práticas de engenharia.
+- Promovo qualidade de código através de code reviews, discussões técnicas e documentação clara, ajudando a alinhar o time em padrões compartilhados.
+- Mentoro colegas em React, TypeScript, testes e arquitetura frontend, contribuindo para práticas de engenharia mais sólidas em todo o time.
 
-_**Skills: TypeScript, React, Next.js, Testes unitários e de integração, Code Reviews, Documentação, Mentoria, Arquitetura Frontend, Observabilidade, Design System**_
+_**Skills:** TypeScript, React, Next.js, Testes unitários e de integração, Code Reviews, Documentação, Mentoria, Arquitetura Frontend, Observabilidade, Design System_
 
 ### **[Appcues](https://www.appcues.com/)** _(2022 - 2025)_  
-Boston, MA - EUA - **(Remoto)**
+Boston, MA - EUA - **Remoto**
 
-- Tive um papel essencial na migração do sistema principal de JavaScript (React, Redux, Saga) para TypeScript (React, GraphQL), criando hooks personalizados e refatorando componentes para melhorar a modularidade, manutenção e performance.
-- Fui peça-chave na estratégia e implementação de testes end-to-end com Playwright, o que aumentou a cobertura de testes e a confiabilidade do software ao validar fluxos críticos.
-- Contribuí para o desenvolvimento de um editor WYSIWYG do zero com TypeScript, gerando uma AST como saída para permitir manipulação estruturada de elementos com React e Web Components.
-- Ajudei na criação e manutenção da extensão do Chrome do Appcues Builder com TypeScript, usando arquitetura orientada a eventos para criar fluxos de onboarding diretamente nos apps dos usuários.
-- Participei da evolução do design system e de vários pacotes em uma arquitetura monorepo, garantindo documentação clara para facilitar a adoção pelo time.
-- Atuei no desenvolvimento de recursos com IA usando RAG (Retrieval Augmented Generation), bancos vetoriais e LLMs da OpenAI, otimizando a experiência do usuário com sugestões inteligentes de conteúdo e fluxos automatizados.
+- Tive papel essencial na migração do frontend principal de JavaScript para TypeScript em uma arquitetura baseada em React, Redux e GraphQL, melhorando manutenibilidade, type safety e escalabilidade de longo prazo.
+- Construí e refatorei componentes React reutilizáveis e hooks customizados, reduzindo complexidade e melhorando a modularidade em múltiplas áreas do produto.
+- Ajudei a definir e implementar a estratégia de testes end-to-end com Playwright, aumentando a confiança em fluxos críticos de usuário e melhorando a confiabilidade dos releases.
+- Contribuí para o desenvolvimento do editor WYSIWYG Builder com TypeScript, gerando uma AST para suportar manipulação estruturada de elementos com React e Web Components.
+- Desenvolvi e mantive partes da extensão Chrome do Appcues Builder em TypeScript, permitindo a criação de fluxos de onboarding diretamente dentro das aplicações dos clientes.
+- Contribuí para pacotes compartilhados, tooling interno e evolução do design system em uma arquitetura monorepo, melhorando consistência, documentação e experiência de desenvolvimento entre times.
+- Participei da implementação de recursos de produto com IA usando RAG, bancos vetoriais e modelos da OpenAI para suportar sugestões de conteúdo e recomendações automatizadas de fluxos.
 
-_**Skills: TypeScript, React, Redux, Saga, JavaScript puro, Extensões Chrome, GraphQL, Styled Components, Tailwind CSS, Monorepos (Turborepo), AWS (S3, CloudFront), Docker, GitHub Actions, CircleCI, Git, PostgreSQL, Testes unitários e de integração, React Testing Library, Jest/Vitest, Playwright, Micro Frontends, Design System, OpenAI, IA, LLMs, Agentes de IA**_
+_**Skills:** TypeScript, React, Redux, Saga, JavaScript puro, Desenvolvimento de Extensões Chrome, GraphQL, Styled Components, Tailwind CSS, Monorepos (Turborepo), AWS (S3, CloudFront), Docker, GitHub Actions, CircleCI, Git, PostgreSQL, Testes unitários e de integração, React Testing Library, Jest/Vitest, Playwright, Micro Frontends, Design System, OpenAI, IA, LLMs, Agentes de IA_
 
-### **[Telnyx](https://telnyx.com/)** _(Fev - Ago 2022)_  
-Austin, TX - EUA - **(Remoto)**
+### **[Telnyx](https://telnyx.com/)** _(Fev 2022 - Ago 2022)_  
+Austin, TX - EUA - **Remoto**
 
-- Desenvolvi aplicações com TypeScript, React e Next.js, aplicando arquitetura de micro frontends para escalar e modularizar o sistema.
-- Criei componentes compartilhados, hooks e pacotes para padronizar o desenvolvimento entre micro frontends e melhorar a experiência do time.
-- Mantive um SDK de videochamada em JavaScript puro, integrando os serviços da Telnyx para comunicação em tempo real.
-- Gerenciei a integração e otimização da infraestrutura de micro frontends na AWS, garantindo deploys eficientes e alta disponibilidade.
-- Mentorei desenvolvedores juniores e plenos, oferecendo suporte técnico, revisões de código e boas práticas.
+- Desenvolvi aplicações frontend com TypeScript, React e Next.js em uma arquitetura de micro frontends, permitindo desenvolvimento modular e escalável de produto.
+- Construí componentes compartilhados, hooks e pacotes internos que padronizaram padrões de implementação e melhoraram a manutenibilidade entre times.
+- Mantive um SDK de videochamadas em JavaScript puro, integrando os serviços de comunicação em tempo real da Telnyx em aplicações frontend.
+- Apoiei a adoção e evolução da infraestrutura de micro frontends na AWS, contribuindo para deploys confiáveis e escalabilidade da plataforma.
+- Colaborei de perto com engenheiros de múltiplos serviços para melhorar a qualidade de integração e a experiência de desenvolvimento em um ecossistema frontend distribuído.
+- Mentorei desenvolvedores juniores e plenos através de orientação técnica, code reviews e compartilhamento de boas práticas.
 
-_**Skills: TypeScript, React, Next.js, GraphQL, Styled Components, Monorepos (Turborepo), AWS, Docker, GitHub Actions, PostgreSQL, Testes unitários e de integração, React Testing Library, Jest, Cypress, Micro Frontends, Design System, SEO**_
+_**Skills:** TypeScript, React, Next.js, GraphQL, Styled Components, Monorepos (Turborepo), AWS, Docker, GitHub Actions, PostgreSQL, Testes unitários e de integração, React Testing Library, Jest, Cypress, Micro Frontends, Design System, SEO_
 
 ### **[Personare](https://www.personare.com.br/)** _(2019 - 2022)_  
-Rio de Janeiro, Brasil - **(Remoto)**
+Rio de Janeiro, Brasil - **Remoto**
 
-- Liderei a migração de um sistema monolítico para microserviços, melhorando escalabilidade, manutenção e resiliência do sistema.
-- Atuei como tech lead, gerenciando projetos e mentorando times para tomar decisões arquiteturais sólidas.
-- Criei um monorepo com pacotes compartilhados, componentes, hooks e design system usando Atomic Design.
-- Modelei um template base reutilizável para microserviços com Next.js, GraphQL, TypeScript e Styled Components.
-- Desenvolvi um pacote de autenticação como adaptador para micro frontends, facilitando a integração e mantendo padrões de segurança robustos.
-- Otimizei a performance de um site com mais de 400 mil visitas diárias.
-- Implementei estratégias de SEO para micro frontends, aumentando visibilidade e posicionamento em buscas.
-- Configurei infraestrutura AWS (Lambda, S3, CloudFront, RDS, etc.) focando em segurança, escalabilidade e disponibilidade.
-- Integrei pipelines CI/CD com GitHub Actions, otimizando o processo de deploy.
-- Mantive e evoluí um monolito legado em PHP, além de planejar sua migração para microserviços com PHP, Python e Node.js.
+- Liderei a transição de um sistema monolítico legado para uma arquitetura baseada em microserviços, melhorando escalabilidade, manutenibilidade e resiliência dos principais produtos.
+- Atuei como líder técnico em diversas iniciativas, mentorando engenheiros e ajudando a conduzir decisões arquiteturais, padrões de implementação e boas práticas de engenharia.
+- Defini e implementei uma estratégia de monorepo para pacotes compartilhados, componentes de UI, hooks e assets de design system, aumentando reuso e consistência entre aplicações.
+- Projetei um modelo base reutilizável de microserviço para padronizar a criação de serviços e padrões de integração entre aplicações Next.js, GraphQL, TypeScript e Styled Components.
+- Construí um pacote de autenticação para simplificar a integração entre micro frontends, preservando segurança e melhorando a experiência de desenvolvimento.
+- Otimizei performance e confiabilidade de uma plataforma de alto tráfego que atendia 400 mil+ visitas diárias, garantindo uma experiência rápida e estável para os usuários.
+- Implementei melhorias de SEO em micro frontends, fortalecendo descobrimento orgânico e apoiando o crescimento natural.
+- Configurei infraestrutura AWS e workflows de deploy para melhorar escalabilidade, segurança e confiabilidade operacional.
+- Integrei pipelines CI/CD com GitHub Actions, aumentando a automação e melhorando a eficiência de deploy.
+- Mantive e evoluí um monolito PHP legado enquanto planejava e executava sua migração gradual para serviços construídos com PHP, Python e Node.js.
 
-_**Skills: TypeScript, React, Next.js, GraphQL, REST API, React Native, Styled Components, Monorepos (Lerna), Autenticação, AWS (Lambda, S3, CloudFront, Aurora, CodePipeline, CodeBuild), CI/CD, Docker, GitHub Actions, PostgreSQL, Testes unitários e de integração, React Testing Library, Jest, Cypress, Micro Frontends, Design System, SEO, PHP, Python, Node.js, Arquitetura de Microserviços, Mentoria, Liderança Técnica**_
+_**Skills:** TypeScript, React, Next.js, GraphQL, REST API, React Native, Styled Components, Monorepos (Lerna), Autenticação, AWS (Lambda, S3, CloudFront, Aurora, CodePipeline, CodeBuild), CI/CD, Docker, GitHub Actions, PostgreSQL, Testes unitários e de integração, React Testing Library, Jest, Cypress, Micro Frontends, Design System, SEO, PHP, Python, Node.js, Arquitetura de Microserviços, Mentoria, Liderança Técnica_
 
-### **Grifo/ADP** _(2018 - 2019)_  
-Porto Alegre, Brasil - **(Remoto)**
+### **Grifo / [ADP](https://br.adp.com/)** _(2018 - 2019)_  
+Porto Alegre, Brasil - **Remoto**
 
-- Trabalhei com a [ADP](https://br.adp.com/) no desenvolvimento frontend com React e Redux, criando padrões avançados de gerenciamento de estado e componentes reutilizáveis.
-- Desenhei e mantive um design system completo que trouxe mais consistência visual às aplicações.
-- Atingi mais de 90% de cobertura de testes com Jest e Enzyme, aplicando TDD para garantir qualidade.
-- Desenvolvi microserviços em Node.js integrados ao RabbitMQ com arquitetura orientada a eventos.
-- Criei pipelines automatizados de testes e defini padrões de documentação que reduziram bugs em produção em 40%.
+- Desenvolvi aplicações frontend com React e Redux para a ADP, implementando padrões complexos de gerenciamento de estado e componentes de UI reutilizáveis.
+- Projetei e mantive um design system que melhorou a consistência visual e acelerou o desenvolvimento em múltiplas aplicações.
+- Atingi mais de 90% de cobertura de testes usando Jest e Enzyme, seguindo práticas de TDD para reforçar qualidade e reduzir regressões.
+- Construí microserviços em Node.js integrados ao RabbitMQ para suportar workflows assíncronos e comunicação orientada a eventos.
+- Estabeleci práticas de testes automatizados e padrões de documentação que ajudaram a reduzir bugs em produção e melhorar a consistência de engenharia.
 
-_**Skills: React, Redux, JavaScript puro, Styled Components, Monorepos (Turborepo), AWS (S3, CloudFront), Docker, GitHub Actions, Git, PostgreSQL, Testes unitários e de integração, Enzyme, Jest, Micro Frontends, Design System**_
+_**Skills:** React, Redux, JavaScript puro, Styled Components, Monorepos (Turborepo), AWS (S3, CloudFront), Docker, GitHub Actions, Git, PostgreSQL, Testes unitários e de integração, Enzyme, Jest, Micro Frontends, Design System_
 
 ### **[B2W Digital](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/about/)** _(2015 - 2018)_  
-Rio de Janeiro, Brasil - **(Presencial)**
+Rio de Janeiro, Brasil - **Presencial**
 
-- Liderei a migração de um sistema monolítico em Django para uma SPA com React e Redux, sendo pioneiro na adoção dessas tecnologias na empresa.
-- O sucesso do projeto virou referência para outras migrações internas de Angular para React.
-- Ofereci palestras e treinamentos internos sobre React e Redux para ajudar outros times na transição.
-- Desenvolvi a maior parte do projeto de forma autônoma, mentorando desenvolvedores juniores e plenos.
-- Também atuei no backend com Python e Falcon, aproveitando minha experiência fullstack.
+- Liderei a migração de uma aplicação monolítica em Django para uma arquitetura SPA com React e Redux, ajudando a modernizar a stack frontend e melhorar a manutenibilidade.
+- Entreguei uma das primeiras iniciativas bem-sucedidas com React na empresa, que posteriormente virou referência para outras migrações de Angular para React.
+- Implementei a maior parte da migração de forma hands-on enquanto mentorava desenvolvedores juniores e plenos ao longo do ciclo de vida do projeto.
+- Apresentei palestras e treinamentos internos sobre React e Redux, acelerando a adoção e melhorando a prontidão do time para desenvolvimento frontend moderno.
+- Contribuí com implementações de backend usando Python e Falcon, aproveitando forte expertise fullstack para apoiar a entrega end-to-end.
 
-_**Skills: React, Redux, Python, Falcon, Styled Components, AWS (S3, CloudFront, CloudFormation), Docker, GitHub Actions, Git, PostgreSQL, Testes unitários e de integração, Enzyme, Jest, Cypress, Micro Frontends, Design System**_
+_**Skills:** React, Redux, Python, Falcon, Styled Components, AWS (S3, CloudFront, CloudFormation), Docker, GitHub Actions, Git, PostgreSQL, Testes unitários e de integração, Enzyme, Jest, Cypress, Micro Frontends, Design System_
 
 ### **[Maxisite](https://maxisite.net/)** _(2013 - 2015)_  
-Rio de Janeiro, Brasil - **(Presencial)**
+Rio de Janeiro, Brasil - **Presencial**
 
-- Desenvolvi e mantive aplicações web com PHP, MySQL, AngularJS e jQuery, entregando soluções de alto desempenho para o setor de marketing digital.
-- Criei um [framework PHP personalizado](https://github.com/guilouro/lothus-php) que acelerou o desenvolvimento de projetos e contribuiu diretamente para o crescimento da empresa.
-- Modelei e otimizei bancos de dados para performance com grandes volumes de dados.
-- Realizei migrações de sistemas legados em PHP para arquiteturas mais modernas, melhorando performance e segurança.
-- Trabalhei em conjunto com designers e equipes de marketing para entregar soluções digitais alinhadas com os objetivos de negócio.
+- Desenvolvi e mantive aplicações web usando PHP, MySQL, AngularJS e jQuery para clientes de marketing digital, entregando soluções confiáveis e de alta performance.
+- Projetei e construí um [framework PHP customizado](https://github.com/guilouro/lothus-php) que acelerou a entrega de projetos, melhorou a manutenibilidade e apoiou o crescimento da empresa.
+- Modelei e otimizei estruturas de banco de dados para melhorar performance e garantir o tratamento eficiente de grandes volumes de dados de clientes.
+- Liderei a modernização de aplicações PHP legadas, melhorando segurança, performance e manutenibilidade de longo prazo.
+- Colaborei com designers e times de marketing para entregar produtos digitais alinhados com objetivos de negócio e expectativas dos clientes.
 
-_**Skills: PHP, MySQL, Node.js, OOP, AngularJS, JavaScript, jQuery, CSS, DigitalOcean, Infraestrutura, Automação, Testes, SEO, Liderança Técnica, Mentoria, Entregas Rápidas**_
+_**Skills:** PHP, MySQL, Node.js, OOP, AngularJS, JavaScript, jQuery, CSS, DigitalOcean, Infraestrutura, Automação, Testes unitários e de integração, SEO, Liderança Técnica, Mentoria, Entregas Rápidas_
 
-### **Experiências Anteriores**  
-- **Freelancer (2011 - 2013):** Desenvolvi jogos educacionais com AS3/AS2 e aplicações web sob medida para clientes.  
-- **Eh! Comunicação (2008 - 2011):** Atuei com desenvolvimento web e design gráfico, entregando soluções digitais para campanhas de marketing.  
+### **Experiências Anteriores**
 
----
-
-## Habilidades
-
-### **Front-End**  
-- **Linguagens & Frameworks:** TypeScript, JavaScript, React.js, Next.js, React Native  
-- **Estilização & Arquitetura:** Tailwind CSS, CSS-in-JS, Atomic Design, Design Responsivo (Mobile First)  
-- **Testes & Qualidade:** Jest, Vitest, Playwright  
-- **Outros:** Design Systems, Monorepos (Turborepo, Nx), Otimização de SEO  
-
-### **Back-End**  
-- **Linguagens & Frameworks:** Python (Django, Flask, FastAPI), Node.js, PHP  
-- **Bancos & Armazenamento:** PostgreSQL, MySQL, SQLite, Firebase Realtime Database  
-- **Testes & Qualidade:** Pytest, Selenium, Testes unitários e de integração, Playwright  
-
-### **Infraestrutura & DevOps**  
-- **Cloud & Servidores:** AWS (EC2, S3, Lambda, CloudFront, CloudFormation, Aurora, RDS)  
-- **DevOps & Automação:** Docker, Kubernetes, GitHub Actions, CircleCI, AWS CodeBuild, AWS CodePipeline  
-- **Versionamento & Infraestrutura como Código:** Git, GitFlow, Terraform, Pulumi  
-
-### **Metodologias & Soft Skills**  
-- **Liderança Técnica & Mentoria:** Guiando times, compartilhando conhecimento e promovendo boas práticas  
-- **Arquitetura & Padrões de Projeto:** Foco em sistemas escaláveis e de fácil manutenção  
-- **Colaboração entre times:** Atuação em equipes multidisciplinares com foco em alinhamento e eficiência  
-- **Aprendizado rápido & Adaptabilidade:** Facilidade para dominar novas tecnologias e resolver problemas em ambientes dinâmicos  
+- **Freelancer (2011 - 2013):** Desenvolvi jogos educacionais com ActionScript 2/3 e construí aplicações web customizadas para clientes.
+- **Eh! Comunicação (2008 - 2011):** Atuei com desenvolvimento web e design gráfico, entregando soluções digitais para campanhas de marketing.
+- **DSONE Digital Strategy (2007 - 2008):** Gerenciei um time de marketing em redes sociais, criei campanhas, desenhei assets digitais e desenvolvi sites usando JavaScript, HTML, CSS e ActionScript, enquanto automatizava processos internos com scripts customizados.
 
 ---
 
-## **Projetos Pessoais & Open Source**  
-- Desenvolvi portais web e crawlers automatizados com Python e Django.  
-- Gerenciei o NETFLA, um portal de notícias com mais de 300 mil usuários mensais, usando React, Next.js, Django, PostgreSQL e Docker.  
-- Contribuí com o NETFLU, criando um sistema de votação de atletas e o aplicativo mobile com React Native.  
-- Participei de projetos open source e criei várias aplicações fullstack.  
-- Criei e publiquei um curso online na Udemy: [Meu curso na Udemy](https://www.udemy.com/user/guilherme-louro/)  
+## Habilidades Principais
+
+### **Engenharia Frontend**
+- TypeScript, JavaScript, React.js, Next.js, React Native
+- Design Systems, Arquitetura de Componentes, Design Responsivo, SEO
+- Tailwind CSS, CSS-in-JS, Styled Components, Atomic Design
+- Jest, Vitest, Playwright, React Testing Library
+
+### **Engenharia Backend**
+- Python (Django, Flask, FastAPI), Node.js, PHP
+- REST APIs, GraphQL, Microserviços, Autenticação
+- PostgreSQL, MySQL, SQLite, Firebase Realtime Database
+- Pytest, Selenium, Testes unitários e de integração
+
+### **Cloud, DevOps & Arquitetura**
+- AWS (EC2, S3, Lambda, CloudFront, CloudFormation, Aurora, RDS)
+- Docker, Kubernetes, GitHub Actions, CircleCI, AWS CodeBuild, AWS CodePipeline
+- Git, GitFlow, Terraform, Pulumi
+- Monorepos (Turborepo, Nx, Lerna), Micro Frontends, Arquitetura de Software
+
+### **Liderança & Colaboração**
+- Liderança Técnica, Mentoria, Code Reviews
+- Colaboração Multidisciplinar
+- Boas Práticas de Engenharia
+- Documentação e Compartilhamento de Conhecimento
+
+### **IA & Tecnologias Emergentes**
+- APIs da OpenAI, RAG, Bancos Vetoriais
+- Recursos de Produto com IA
+- Integrações com LLMs
+- Workflows de Engenharia Assistidos por IA
 
 ---
 
-## Formação  
-- **Bacharelado em Sistemas de Informação** – FAETERJ  
-- **Publicidade e Propaganda (Incompleto)** – Universidade Estácio de Sá  
+## Projetos Pessoais & Open Source
 
-### Cursos e Certificações  
-- Desenvolvedor Android/iOS com React Native  
-- Curso completo de React e Redux  
-- JavaScript com TDD  
-- Máquinas de Estado com XState  
-- Bem-vindo ao Django – Henrique Bastos  
-- Python para Zumbis  
-- Microsoft Students to Business Program  
-- Desenvolvimento em PHP – WebRoads  
-- Flash Total Avançado – Luciano Augusto Training  
+- Desenvolvi portais web e sistemas automatizados de crawling/scraping usando Python e Django.
+- Construí e gerenciei o **NETFLA**, um portal de notícias esportivas de alto tráfego, usando React, Next.js, Django, PostgreSQL e Docker.
+- Contribuí para o **NETFLU**, incluindo o desenvolvimento de um sistema de votação de atletas e um aplicativo mobile com React Native.
+- Construí e mantive múltiplos projetos pessoais fullstack e contribuí para iniciativas open source.
+- Criei e publiquei um curso online na Udemy: [Meu curso na Udemy](https://www.udemy.com/user/guilherme-louro/)
 
 ---
 
-## **Destaques & Diferenciais**  
-- Grande experiência em desenvolvimento fullstack, arquitetura de sistemas e otimização de performance.  
-- Capacidade comprovada em liderar migrações de sistemas e modernização de aplicações.  
-- Atuação com liderança técnica e mentoria de desenvolvedores.  
-- Foco em qualidade de código, manutenibilidade e eficiência nos fluxos de desenvolvimento.  
-- Paixão por compartilhar conhecimento por meio de mentoria, treinamentos internos e projetos open source.  
-- Experiência em colaboração com times internacionais e multidisciplinares.
+## Formação
+
+- **Bacharelado em Sistemas de Informação** – FAETERJ
+- **Publicidade e Propaganda (Incompleto)** – Universidade Estácio de Sá
+
+### Cursos e Certificações
+- Desenvolvedor Cross-platform Android/iOS com React Native
+- Curso Completo de React e Redux
+- JavaScript com TDD
+- Máquinas de Estado em JavaScript com XState, v2
+- Bem-vindo ao Django – Henrique Bastos
+- Python para Zumbis
+- Microsoft Students to Business Program
+- Desenvolvimento em PHP – WebRoads
+- Flash Total Avançado – Luciano Augusto Training
+
+---
+
+## Destaques
+
+- Mais de 15 anos de experiência em desenvolvimento web fullstack, arquitetura frontend e modernização de software.
+- Forte histórico liderando migrações, melhorando manutenibilidade e escalando plataformas web.
+- Profunda expertise em React, TypeScript, Next.js e práticas modernas de engenharia frontend.
+- Sólida base em backend com Python, Node.js, PHP, APIs e arquitetura de microserviços.
+- Experiência comprovada mentorando engenheiros, melhorando workflows de desenvolvimento e conduzindo padrões técnicos.
+- Experiência com plataformas de alto tráfego, times distribuídos e ambientes remotos internacionais.
