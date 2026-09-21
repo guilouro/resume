@@ -7,6 +7,8 @@ guipclouro@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/guilhermelouro/) | [GitHub](https://github.com/guilouro)
 
+Languages: Portuguese (Native) | English (Advanced)
+
 ---
 
 ## Professional Summary
@@ -170,4 +172,3 @@ Technical Leadership, Mentoring, Architecture Decisions, Documentation, Cross-Fu
 ## Education
 
 - **Bachelor’s Degree in Information Systems** — FAETERJ
-- **Advertising and Marketing** — Universidade Estácio de Sá, incomplete

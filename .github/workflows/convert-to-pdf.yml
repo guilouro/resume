@@ -1,25 +1,43 @@
 name: Convert to PDF
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
     paths:
       - '**.md'
+      - 'styles/resume.css'
+      - '.github/workflows/convert-to-pdf.yml'
+
+permissions:
+  contents: read
 
 jobs:
   converttopdf:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: README.md
-          output_dir: pdfs
+          input_path: README.md
+          output_dir: pdfs/
           build_html: false
+          theme: styles/resume.css
+          extend_default_theme: true
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: README-pt.md
+          output_dir: pdfs/
+          build_html: false
+          theme: styles/resume.css
+          extend_default_theme: true
       - uses: actions/upload-artifact@v4
         with:
           name: resume
-          path: pdfs/README.pdf
+          path: |
+            pdfs/README.pdf
+            pdfs/README-pt.pdf
+          if-no-files-found: error
           compression-level: 0

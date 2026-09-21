@@ -1,0 +1,72 @@
+/* Append to the generator's theme. Keep text in normal document flow. */
+@media print {
+  html,
+  body {
+    width: auto;
+    min-width: 0;
+    max-width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #202020;
+  }
+
+  p,
+  li {
+    height: auto;
+    max-height: none;
+    overflow: visible;
+    white-space: normal;
+    word-break: normal;
+    overflow-wrap: break-word;
+    hyphens: none;
+    orphans: 3;
+    widows: 3;
+  }
+
+  li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Lists and whole jobs may span pages; individual bullets stay together. */
+  ul,
+  ol {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h3 + p {
+    break-after: avoid;
+    page-break-after: avoid;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Keep separators with the next section rather than alone on a page. */
+  hr {
+    break-after: avoid;
+    page-break-after: avoid;
+    height: 1px;
+    margin: 20px 0;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .anchor {
+    display: none;
+  }
+}

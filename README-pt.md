@@ -7,6 +7,8 @@ guipclouro@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/guilhermelouro/) | [GitHub](https://github.com/guilouro)
 
+Idiomas: Português (Nativo) | Inglês (Avançado)
+
 ---
 
 ## Resumo Profissional
@@ -170,4 +172,3 @@ Liderança Técnica, Mentoria, Decisões de Arquitetura, Documentação, Colabor
 ## Formação
 
 - **Bacharelado em Sistemas de Informação** — FAETERJ
-- **Publicidade e Propaganda** — Universidade Estácio de Sá, incompleto
